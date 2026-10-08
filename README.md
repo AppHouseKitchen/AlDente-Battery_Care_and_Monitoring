@@ -1,6 +1,13 @@
 <div align="center">
     <img src="AlDente/Assets.xcassets/AppIcon.appiconset/512pt_Mac_1x.png" width=200 height=200>
     <h1>AlDente - Battery Care & Monitoring</h1>
+    <p>
+        <a href="https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring/releases/latest"><img src="https://img.shields.io/github/v/release/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring?label=version" alt="Latest version"></a>
+        <a href="https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring/releases"><img src="https://img.shields.io/github/downloads/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring/total" alt="Downloads"></a>
+        <a href="https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring/stargazers"><img src="https://img.shields.io/github/stars/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring?style=flat" alt="GitHub stars"></a>
+        <a href="https://apphousekitchen.com/pricing/"><img src="https://img.shields.io/badge/macOS-12%2B-blue?logo=apple" alt="macOS 12+"></a>
+        <a href="https://formulae.brew.sh/cask/aldente"><img src="https://img.shields.io/homebrew/cask/v/aldente" alt="Homebrew cask"></a>
+    </p>
 </div>
 
 _macOS menu bar app to limit the maximum charging percentage and improve your MacBook's battery lifespan_
@@ -80,6 +87,6 @@ The legacy code in this repository uses the following open-source projects:
 
 AlDente taps into low-level system functions to control charging. Although it is used by many people without any issues, we do not take any responsibility for any damage resulting from the use of AlDente. Use it at your own risk. Please see the [LICENSE](LICENSE) for details.
 
-Copyright ¬© 2020‚Äì2026 AppHouseKitchen GmbH
+Copyright ¬¨¬© 2020‚Äö√Ñ√¨2026 AppHouseKitchen GmbH
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
