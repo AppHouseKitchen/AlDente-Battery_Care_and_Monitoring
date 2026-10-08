@@ -87,6 +87,6 @@ The legacy code in this repository uses the following open-source projects:
 
 AlDente taps into low-level system functions to control charging. Although it is used by many people without any issues, we do not take any responsibility for any damage resulting from the use of AlDente. Use it at your own risk. Please see the [LICENSE](LICENSE) for details.
 
-Copyright ¬¨¬© 2020‚Äö√Ñ√¨2026 AppHouseKitchen GmbH
+Copyright © 2020–2026 AppHouseKitchen GmbH
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
