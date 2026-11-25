@@ -1,3 +1,6 @@
+> [!TIP]
+> **Black Week:** AlDente Pro is 30% off until 1 December, 9:00 CET → [apphousekitchen.com](https://apphousekitchen.com/aldente-overview/pricing/?utm_source=github&utm_medium=readme&utm_campaign=black-week-2026)
+
 <div align="center">
     <img src="AlDente/Assets.xcassets/AppIcon.appiconset/512pt_Mac_1x.png" width=200 height=200>
     <h1>AlDente - Battery Care & Monitoring</h1>
